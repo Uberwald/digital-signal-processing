@@ -1,1 +1,1 @@
-# digital-signal-processing
+# Лабораторная работа №1
